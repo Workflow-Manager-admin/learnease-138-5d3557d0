@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnEase</string>
+    <string name="topic_label">Enter a topic to learn about:</string>
+    <string name="get_explanation">Get Explanation</string>
+    <string name="get_analogy">Get Analogy</string>
+    <string name="get_quiz">Get Quiz Question</string>
+    <string name="explanation_label">Simplified Explanation</string>
+    <string name="analogy_label">Real-world Analogy</string>
+    <string name="quiz_label">Quiz Question</string>
+    <string name="back">Back</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.LearnEase" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:buttonStyle">@style/LearnEaseButton</item>
+        <item name="android:editTextBackground">@color/secondary</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="LearnEaseButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/accent</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
